@@ -7,5 +7,3 @@ if(!defined("IN_MYBB"))
 }
 
 admin_redirect('https://github.com/dequeues/MyBB-CloudFlare-Manager/issues');
-
-?>

@@ -53,5 +53,3 @@ function get_feed()
 		return "Error: Could not retrieve data.";
 	}
 }
-
-?>

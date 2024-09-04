@@ -162,5 +162,3 @@ function cloudflare_admin_permissions()
 
 	return array("name" => "CloudFlare Manager", "permissions" => $admin_permissions, "disporder" => 60);
 }
-
-?>

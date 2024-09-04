@@ -70,5 +70,3 @@ $page->output_alert("The cache level is currently set to {$current_cache_level} 
 main_page($current_cache_level, $dn);
 
 $page->output_footer();
-
-?>

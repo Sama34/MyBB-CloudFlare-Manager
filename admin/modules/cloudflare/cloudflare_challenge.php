@@ -40,5 +40,3 @@ if ($mybb->input['action'] == "add_ip")
 main_page();
 
 $page->output_footer();
-
-?>

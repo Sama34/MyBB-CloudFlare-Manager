@@ -50,4 +50,3 @@ elseif($mybb->input['action'] == "run")
 }
 
 $page->output_footer();
-?>

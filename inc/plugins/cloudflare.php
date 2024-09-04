@@ -162,5 +162,3 @@ function cloudflare_backlink(&$page)
 
 	return $page;
 }
-
-?>

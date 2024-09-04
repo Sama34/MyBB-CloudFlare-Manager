@@ -54,5 +54,3 @@ $dev_request = $cloudflare->dev_mode();
 $in_dev = ($dev_request->result->value == "off" ? false : true);
 main_page($in_dev, $dev_request->result->time_remaining);
 $page->output_footer();
-
-?>

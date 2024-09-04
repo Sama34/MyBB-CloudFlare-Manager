@@ -73,5 +73,3 @@ $page->output_alert("The current security level is set as {$security_levels[$cur
 main_page($current_setting);
 
 $page->output_footer();
-
-?>

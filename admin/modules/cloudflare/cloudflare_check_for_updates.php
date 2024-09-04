@@ -18,5 +18,3 @@ else
 }
 
 admin_redirect("index.php?module=cloudflare");
-
-?>

@@ -95,5 +95,3 @@ else
 {
 	main_page();
 }
-
-?>

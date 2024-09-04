@@ -9,6 +9,3 @@ if(!defined("IN_MYBB"))
 flash_message("Your nameservers are not set correctly.", "error");
 
 admin_redirect("index.php?module=cloudflare");
-
-
-?>

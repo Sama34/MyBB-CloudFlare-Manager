@@ -72,4 +72,3 @@ if($mybb->input['action'] == "purge")
 
 main_page();
 $page->output_footer();
-?>

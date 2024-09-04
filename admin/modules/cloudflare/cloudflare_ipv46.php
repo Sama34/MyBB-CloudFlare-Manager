@@ -45,5 +45,3 @@ if ($mybb->input['action'] == 'change')
 
 main_page($ipv6_mode_enabled);
 $page->output_footer();
-
-?>

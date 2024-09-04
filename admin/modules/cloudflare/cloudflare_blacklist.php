@@ -45,5 +45,3 @@ if($mybb->input['action'] == "run")
 main_page();
 
 $page->output_footer();
-
-?>
